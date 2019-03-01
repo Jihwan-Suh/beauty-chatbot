@@ -1,4 +1,4 @@
-# beauty-chatbot
+# Beauty-Chatbot-Commelier
 1. 목표 : 화장품 추천 챗봇
 
 데이터 수집
